@@ -12,3 +12,4 @@ Once the ghostscript is installed  copy the gs9.27 folders into the following pa
 	C:\Program Files\MATLAB\R20XXX\sys\ghostscript\gs9.27
 
 Cite the SPINMAR application: [![DOI](https://zenodo.org/badge/417934081.svg)](https://zenodo.org/badge/latestdoi/417934081)
+
