@@ -1,5 +1,5 @@
 # SPINMAR
-Name
+Name:
 The Sensor Physiotherapy Intervention Movement Analysis Report (SPINMAR)
 
 Description
