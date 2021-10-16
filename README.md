@@ -11,3 +11,4 @@ To run the script,  ghostscript (version gs9.27) should be installed and this ca
 Once the ghostscript is installed  copy the gs9.27 folders into the following path 
 	C:\Program Files\MATLAB\R20XXX\sys\ghostscript\gs9.27
 
+Cite the SPINMAR application: [![DOI](https://zenodo.org/badge/417934081.svg)](https://zenodo.org/badge/latestdoi/417934081)
