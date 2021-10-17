@@ -20,7 +20,7 @@ Once the ghostscript is installed  copy the gs9.27 folders into the following pa
                C:\Program Files\MATLAB\R20XXX\sys\ghostscript\gs9.27
 
 Cite the SPINMAR application: 
-Davies JL, Button K, Al-Amri M. The Sensor Physiotherapy Intervention Movement Analysis Report (SPINMAR), v1.1, Zenodo, doi:10.5281/zenodo.5574187 
+Davies JL, Button K, Al-Amri M. The Sensor Physiotherapy Intervention Movement Analysis Report (SPINMAR), v2.0, Zenodo, doi:10.5281/zenodo.5574187 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5574187.svg)](https://doi.org/10.5281/zenodo.5574187)
 
 
